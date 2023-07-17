@@ -40,7 +40,7 @@ ITの分野は、変化が激しく学ぶことが多いですが、私は知的
 
 # My Best Languages, Frameworks, and Tools
 
-<img src="https://skillicons.dev/icons?i=py,flask,go,js,ts,react,redux,html,css,sass,bootstrap,git,vscode" />
+<img src="https://skillicons.dev/icons?i=py,flask,go,ts,react,redux,html,sass,git,vscode" />
 <br>
 
 # Programming Languages, Frameworks and Tools
