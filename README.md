@@ -20,7 +20,7 @@ IT の分野は、変化が激しく学ぶことが多いですが、私は知�
 # Project in progress
 
 - 2 ヶ月間のハッカソン
-- 大学教授のもとで、Python を使用した統計研究の補助
+- Python を使用したデータ解析案件
   <br>
 
 # My Status
