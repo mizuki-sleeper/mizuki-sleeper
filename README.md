@@ -6,6 +6,8 @@ Hi there👋, I'm Mizuki.
 Thank you for Finding me!
 </h3>
 
+[![muskyAuk](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FmuskyAuk)](https://atcoder.jp/users/muskyAuk)
+
 # About Me
 
 私は現在休学中の学生エンジニアです。バックエンド開発に興味があります
@@ -52,10 +54,10 @@ IT の分野は、変化が激しく学ぶことが多いですが、私は知�
 
 # Programming Languages, Frameworks and Tools
 
-<img src="https://skillicons.dev/icons?i=py,flask,go,js,ts,react,redux,html,css,sass,bootstrap,materialui,sqlite,mysql,postgres,docker,firebase,aws,neovim,github,git,linux,postman,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=py,flask,go,c,js,ts,react,redux,html,css,sass,bootstrap,materialui,sqlite,mysql,postgres,docker,firebase,aws,neovim,github,git,linux,postman,vscode,figma" />
 <br>
 
 # Now Training
 
-<img src="https://skillicons.dev/icons?i=py,go,ts,react,redux,postgres,docker,aws" />
+<img src="https://skillicons.dev/icons?i=py,go,cpp,docker,kubernetes" />
 <br>
