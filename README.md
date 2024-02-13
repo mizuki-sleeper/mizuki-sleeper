@@ -54,7 +54,7 @@ IT の分野は、変化が激しく学ぶことが多いですが、私は知�
 
 # Programming Languages, Frameworks and Tools
 
-<img src="https://skillicons.dev/icons?i=py,flask,go,c,js,ts,react,redux,html,css,sass,bootstrap,materialui,sqlite,mysql,postgres,docker,firebase,aws,neovim,github,git,linux,postman,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=py,flask,go,c,js,ts,react,redux,html,css,sass,bootstrap,materialui,sqlite,mysql,postgres,docker,firebase,aws,gcp,azure,neovim,github,git,linux,postman,vscode,figma" />
 <br>
 
 # Now Training
