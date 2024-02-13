@@ -10,7 +10,7 @@ Thank you for Finding me!
 
 # About Me
 
-私は現在休学中の学生エンジニアです。バックエンド開発に興味があります
+私は現在休学中の学生エンジニアです。技術だけでなくビジネス全体の視点からも問題解決を行い、より大きな成果を生み出すことができるエンジニアを目指しています！
 
 初めはずっと Linux を触っていて、アルゴリズムやプロトコルなどの CS 基礎から、インフラ、プログラミング、ウェブシステム、セキュリティ、アーキテクティング、AI/データサイエンス、UI/UXなど幅広く学びました。
 
@@ -22,10 +22,10 @@ IT の分野は、変化が激しく学ぶことが多いですが、私は知�
 # Project in progress
 
 - インターン（カサナレ株式会社） (2023年8月1日~)
+- Python・R を使用したデータ解析案件
   <br>
   <br>
 - 2 ヶ月間のハッカソン(done)
-- Python を使用したデータ解析案件(done)
 
 # My Status
 
@@ -59,5 +59,5 @@ IT の分野は、変化が激しく学ぶことが多いですが、私は知�
 
 # Now Training
 
-<img src="https://skillicons.dev/icons?i=py,go,cpp,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=py,go,docker,kubernetes" />
 <br>
